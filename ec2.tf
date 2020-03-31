@@ -1,6 +1,6 @@
 provider "aws" {
-  access_key = "AKIAZ5W3SZC2HF256WXN"
-  secret_key ="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"
+  access_key = ""
+  secret_key =""
   region                  = "ap-south-1"
   profile                 = "terraform"
 }
